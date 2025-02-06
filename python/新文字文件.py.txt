@@ -1,0 +1,5 @@
+print("welcome to 找位數程式!")
+number = input("enter a number")
+number2 = input("enter another number")
+answer = number//number2%10
+print(answer)

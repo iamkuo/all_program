@@ -1,0 +1,12 @@
+		again = input('do you want to play again?(y/n):')
+                if again == y:
+                    set_var()
+                    strokeWeight(3)
+                    size(1024,1024)
+                    background(back_c)
+                    w_width = 1024.0
+                    w_height = 1024.0
+                    create_dic()
+                    grideline()
+                else:
+                    exit()
