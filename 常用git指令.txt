@@ -1,0 +1,19 @@
+快照:
+git add .
+存檔:
+git commit -am ""
+上傳:
+git push
+版本紀錄:
+git log --oneline
+比較:
+git diff before -- now
+還原:
+git checkout before -- now
+上1個存檔:
+HEAD^
+上N個存檔:
+HEAD~N
+
+
+
