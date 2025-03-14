@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1669468472 source:c:\users\rykuo\desktop\program\program\c++\shortest_maze\main.cpp
-	<iostream>
-	<bits/stdc++.h>
-

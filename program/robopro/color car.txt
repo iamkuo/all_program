@@ -1,3 +1,0 @@
-i1~i4 trail
-i5,i6 color
-i7 sonic

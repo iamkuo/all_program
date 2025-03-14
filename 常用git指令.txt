@@ -7,13 +7,17 @@ git push
 版本紀錄:
 git log --oneline
 比較:
-git diff before -- now
+git diff before -- .
 還原:
-git checkout before -- now
+git checkout before -- .
+退回:
+git reset --hard before .
 上1個存檔:
 HEAD^
 上N個存檔:
 HEAD~N
 
-
-
+初始化:
+git config --global user.name "uncle_rick"
+git config --global user.email "rykuo1006@gmail.com"
+git config --global --list
