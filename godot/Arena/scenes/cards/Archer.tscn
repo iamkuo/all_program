@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3]
+[ext_resource path="res://scripts/unit.gd" type="Script" id=1]
+[ext_resource path="res://scripts/projectile.gd" type="Script" id=2]
+
+[node name="Archer" type="CharacterBody2D"]
+script = ExtResource( 1 )
+max_hp = 100
+atk = 15
+atk_speed = 1.0
+move_speed = 120
+attack_range = 180
+is_ranged = true
+projectile_scene = ExtResource( 2 )
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = null
+modulate = Color(0.4,0.8,1)

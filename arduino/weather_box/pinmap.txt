@@ -1,0 +1,10 @@
+DHT
+???:2
+pms5003
+RX:8
+TX:9
+SD Reader
+MISO:12
+MOSI:11
+SCK:13
+CS:10

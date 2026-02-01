@@ -1,0 +1,17 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1761221793
+Main.tscn::PackedScene::-1::1760589618::0::1::::<><><>0<>0<><>::res://scripts/game_manager.gd<>res://scripts/elixir.gd
+::res://scenes/::1761221668
+Tower.tscn::PackedScene::-1::1760589618::0::1::::<><><>0<>0<><>::res://scripts/tower.gd
+::res://scenes/cards/::1761221668
+Archer.tscn::PackedScene::-1::1760589618::0::1::::<><><>0<>0<><>::res://scripts/unit.gd<>res://scripts/projectile.gd
+Projectile.tscn::PackedScene::-1::1760589618::0::1::::<><><>0<>0<><>::res://scripts/projectile.gd
+Speeder.tscn::PackedScene::-1::1760589618::0::1::::<><><>0<>0<><>::res://scripts/unit.gd
+Tank.tscn::PackedScene::-1::1760589618::0::1::::<><><>0<>0<><>::res://scripts/unit.gd
+::res://scripts/::1761221668
+card_button.gd::GDScript::4602078647733550110::1760589474::0::1::::<>Button<><>0<>0<><>::
+elixir.gd::GDScript::3744574829940539704::1760589474::0::1::::<>Node<><>0<>0<><>::
+game_manager.gd::GDScript::2590795536018976238::1760589474::0::1::::<>Node<><>0<>0<><>::
+projectile.gd::GDScript::6848774982851818279::1760589474::0::1::::<>Area2D<><>0<>0<><>::
+tower.gd::GDScript::8835374458595996203::1760589474::0::1::::<>Node2D<><>0<>0<><>::
+unit.gd::GDScript::5673260259940216752::1760589474::0::1::::<>CharacterBody2D<><>0<>0<><>::

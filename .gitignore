@@ -28,3 +28,8 @@ Thumbs.db
 
 *.mp4
 *.msi
+
+godot/*.exe
+godot.7z
+.tmp.driveupload/
+APCS_tutor/*.zip
