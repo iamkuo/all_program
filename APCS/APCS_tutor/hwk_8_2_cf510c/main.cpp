@@ -27,10 +27,13 @@ int main()
                 cout << "Impossible";
                 return 0;
             }
-            if(pre[j] != now[j] && !el[toi(pre[j])][toi(now[j])])
+            if(pre[j] != now[j])
             {
-                in_deg[toi(now[j])] ++;
-                el[toi(pre[j])][toi(now[j])] = true;
+                if(!el[toi(pre[j])][toi(now[j])])
+                {
+                    in_deg[toi(now[j])] ++;
+                    el[toi(pre[j])][toi(now[j])] = true;
+                }
                 break;
             }
             j++;
