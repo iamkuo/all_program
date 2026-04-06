@@ -33,3 +33,39 @@ godot/*.exe
 godot.7z
 .tmp.driveupload/
 APCS_tutor/*.zip
+
+# Large archives and files
+*.7z
+*.rar
+*.tar.gz
+*.zip
+
+# Python dependencies and cache
+.conda/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Node modules
+node_modules/
+
+# Large environment directories
+RVC-TTS-PIPELINE/RVC-beta0717/
+cnn_ai/.conda/
+
+# Model files and large binaries
+*.pth
+*.pt
+*.h5
+*.pb
+*.pkl
+*.joblib
+*.dll
+*.so
+*.dylib
