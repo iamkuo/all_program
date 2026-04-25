@@ -1,3 +1,15 @@
 [submodule "godot/test_project"]
 	path = godot/test_project
 	url = https://github.com/iamkuo/godot_test
+[submodule "godot/project_terminus"]
+	path = godot/project_terminus
+	url = https://github.com/iamkuo/project_terminus.git
+[submodule "godot/battle_system_test"]
+	path = godot/battle_system_test
+	url = https://github.com/iamkuo/godot_battle_system_test.git
+[submodule "RVC-TTS-PIPELINE"]
+	path = RVC-TTS-PIPELINE
+	url = https://github.com/iamkuo/RVC-TTS-Assistant.git
+[submodule "cnn_ai"]
+	path = cnn_ai
+	url = https://github.com/iamkuo/CNN_ai.git
